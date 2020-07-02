@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>pexels_photo_1108099.jpeg</filename>
+	<path>C:\Users\Kenji\Documents\Work\Future Connections\Video Analytics\Cat and Dog Images\Test\pexels_photo_1108099.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>86</ymin>
+			<xmax>262</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>77</ymin>
+			<xmax>384</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

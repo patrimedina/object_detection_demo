@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Cat and Dog Images</folder>
+	<filename>2Q__ (3).jpg</filename>
+	<path>C:\Users\Kenji\Documents\Work\Future Connections\Video Analytics\Cat and Dog Images\2Q__ (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>1</ymin>
+			<xmax>223</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>74</ymin>
+			<xmax>309</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

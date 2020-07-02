@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>04ebfcfd_fa70_4e49_84ff_66cf3c5c0407_best_cat_toys_for_older_cats_3.jpg</filename>
+	<path>C:\Users\Kenji\Documents\Work\Future Connections\Video Analytics\Cat and Dog Images\Test\04ebfcfd_fa70_4e49_84ff_66cf3c5c0407_best_cat_toys_for_older_cats_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>238</ymin>
+			<xmax>534</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

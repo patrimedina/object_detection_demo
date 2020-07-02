@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>190207162239_01_fluffy_frozen_cat_trnd_exlarge_169.jpg</filename>
+	<path>C:\Users\Kenji\Documents\Work\Future Connections\Video Analytics\Cat and Dog Images\Test\190207162239_01_fluffy_frozen_cat_trnd_exlarge_169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>199</ymin>
+			<xmax>597</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
